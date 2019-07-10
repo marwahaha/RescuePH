@@ -1,4 +1,4 @@
-# This project has largely been abandonned. 
+# This project has largely been abandoned. 
 The need was too little and the competition was too great. 
 Follow progress on [Rescue Case Management](https://github.com/MikeNGarrett/rcm)
 
